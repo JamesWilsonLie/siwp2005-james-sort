@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='siwp2005-james-sort',
-    version='0.0.1',
+    version='0.0.2',
     packages=['sort'],
     package_dir={'': 'src'},
     author='James Wilson Lie',
